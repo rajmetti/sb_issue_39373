@@ -1,0 +1,16 @@
+foo.foo1:
+  list:
+    step1:
+      0:
+        cool: qwe
+      1:
+        cool: qwe
+        warm: we
+        cold: wee
+      2:
+        cool: qwe
+    step2:
+      0:
+        cool: qwe
+        warm: we
+        cold: wee
